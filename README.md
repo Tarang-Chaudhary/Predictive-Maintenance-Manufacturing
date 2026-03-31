@@ -94,7 +94,6 @@ Industrial machines generate large amounts of sensor data. The challenge is to u
   - Pandas
   - Matplotlib / Seaborn
   - Scikit-learn
-  - TensorFlow / PyTorch (if used)
 
 ---
 
